@@ -1,0 +1,1 @@
+export const feedbackOptions = ['good', 'neutral', 'bad']
